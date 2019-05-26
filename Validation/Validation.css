@@ -1,0 +1,15 @@
+.Validation p {
+	padding: 0.5rem;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	color: white;
+	font-size: 1.2rem;
+}
+
+.Validation .invalid {
+	background-color: red;
+}
+
+.Validation .valid {
+	background-color: green;
+}
